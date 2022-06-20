@@ -1,22 +1,22 @@
 <div align="center">
-    <h1>Desafio 3 Grid com animações - Semana 3 </h1>
+    <h1> Challenge 3 Grid with animations - Week 3 </h1>
 </div>
 
 
 <br>
 
-# Sobre o desafio
+# Abolt
 
-<p> Desafio concluido - Foi recebido um layout Mobile no figma, para que fosse transformado em código. </p>
+<p>Challenge completed - A Mobile layout was received in figma, to be turned into code. </p>
 
 <br>
 
-# Resolução do problema
+# Problem resolution
 
-* Código foi criado a partir do layout do figma respeitando todas as suas especificações e utilizando o conceito do Grid layout.
+* Code was created from figma layout respecting all its specifications and using the Grid layout concept.
 
 # Features 
-- [x]  Layout do Desafio 3 da terceira semana do Programa Explorer
+- [x] Explorer Program Week 3 Challenge 3 Layout
 
 <br>
 
